@@ -1,0 +1,2 @@
+docker build  -f dockerfile.txt -t docker_flask2 .
+
